@@ -1,0 +1,100 @@
+{
+	"msg": "SUCCESS",
+	"data": [{
+		"id": 0,
+		"tag": "ETH",
+		"sort": 1,
+		"createTime": "2021-01-27 07:18:42"
+	},  {
+		"id": 2,
+		"tag": "TRX",
+		"sort": 3,
+		"createTime": "2020-12-01 10:00:44"
+	}, {
+		"id": 3,
+		"tag": "HT",
+		"sort": 4,
+		"createTime": "2020-12-01 10:00:28"
+	}, {
+		"id": 4,
+		"tag": "BNB",
+		"sort": 5,
+		"createTime": "2020-12-01 10:01:00"
+	}, {
+		"id": 5,
+		"tag": "MATIC",
+		"sort": 6,
+		"createTime": "2021-01-27 00:57:38"
+	}, {
+		"id": 6,
+		"tag": "FTM",
+		"sort": 7,
+		"createTime": "2021-01-27 00:58:04"
+	}, {
+		"id": 7,
+		"tag": "xDai",
+		"sort": 8,
+		"createTime": "2021-01-27 00:58:17"
+	}, {
+		"id": 8,
+		"tag": "ARB",
+		"sort": 9,
+		"createTime": "2021-01-27 00:58:56"
+	}, {
+		"id": 9,
+		"tag": "KLAY",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 10,
+		"tag": "CELO",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 11,
+		"tag": "OKT",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 12,
+		"tag": "ETHER",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 13,
+		"tag": "RBTC",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 14,
+		"tag": "ONE",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 15,
+		"tag": "WAN",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 16,
+		"tag": "MOVR",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 17,
+		"tag": "NRG",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 18,
+		"tag": "KCS",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}, {
+		"id": 19,
+		"tag": "PALM",
+		"sort": 10,
+		"createTime": "2021-01-27 00:58:42"
+	}],
+	"status": 0
+}

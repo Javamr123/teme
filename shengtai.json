@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "cat": [
+        {
+          "id": 97,
+          "appName": "Uniswap",
+          "appIco": "https://avatars.githubusercontent.com/u/36115574?s=200&v=4",
+          "appLink": "https://app.uniswap.org/#/swap",
+          "status": 1,
+          "sort": null,
+          "hot": 0,
+          "createTime": "2021-01-26 22:36:48",
+          "updateTime": "2021-01-26 22:36:48",
+          "iosLink": "https://avatars.githubusercontent.com/u/36115574?s=200&v=4",
+          "tag": 0,
+          "desc": "通证兑换平台",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+        {
+          "id": 102,
+          "appName": "MDEX",
+          "appIco": "https://img.jinse.com/4555496_image20.png",
+          "appLink": "https://ht.mdex.co/#/swap?lang=zh-CN",
+          "status": 1,
+          "sort": null,
+          "hot": 1,
+          "createTime": "2021-01-26 23:09:09",
+          "updateTime": "2021-01-26 23:09:08",
+          "iosLink": "https://ht.mdex.co/#/swap?lang=zh-CN",
+          "tag": 4,
+          "desc": "heco通证兑换平台",
+          "type": 3
+        }
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    },
+    {
+      "cat": [
+
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+	"msg": "SUCCESS",
+	"data": [{
+		"id": 3,
+		"ico": "http://agreement.metatoken.run/png/NFTbanner1.jpg",
+		"title": "开端",
+		"sort": 1,
+		"link": null,
+		"linkAble": 0
+	}, {
+		"id": 4,
+		"ico": "http://agreement.metatoken.run/png/NFTbanner2.jpg",
+		"title": "体验",
+		"sort": 2,
+		"link": null,
+		"linkAble": 0
+	}, {
+		"id": 5,
+		"ico": "http://agreement.metatoken.run/png/NFTbanner3.jpg",
+		"title": "策略",
+		"sort": 3,
+		"link": null,
+		"linkAble": 0
+	}, {
+		"id": 5,
+		"ico": "http://agreement.metatoken.run/png/NFTbanner4.jpg",
+		"title": "策略",
+		"sort": 3,
+		"link": null,
+		"linkAble": 0
+	}],
+	"status": 0
+}

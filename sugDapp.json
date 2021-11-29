@@ -1,0 +1,74 @@
+{
+	"data": [{
+		"id": 102,
+		"appName": "MDEX",
+		"appIco": "https://img.jinse.com/4555496_image20.png",
+		"appLink": "https://ht.mdex.co/#/swap?lang=zh-CN",
+		"status": 1,
+		"sort": null,
+		"hot": 1,
+		"createTime": "2021-01-26 23:09:09",
+		"updateTime": "2021-01-26 23:09:08",
+		"iosLink": "https://ht.mdex.co/#/swap?lang=zh-CN",
+		"tag": 4,
+		"desc": "heco通证兑换平台",
+		"type": 8
+	},{
+		"id": 102,
+		"appName": "Xswap",
+		"appIco": "https://img.jinse.com/1588866_image20.png",
+		"appLink": "https://xswap.tokenpocket.pro/?utm_source=tokenpocket#/",
+		"status": 1,
+		"sort": null,
+		"hot": 1,
+		"createTime": "2021-01-26 23:09:09",
+		"updateTime": "2021-01-26 23:09:08",
+		"iosLink": "https://xswap.tokenpocket.pro/?utm_source=tokenpocket#/",
+		"tag": 4,
+		"desc": "TP跨链聚合闪兑平台",
+		"type": 1
+	},{
+		"id": 102,
+		"appName": "UniSwap",
+		"appIco": "https://cdn.8btc.cn/wp-content/uploads/2020/04/202004270212315675.jpg",
+		"appLink": "https://tp-lab.tokenpocket.pro/uniswap/index.html?utm_source=tokenpocket#/swap",
+		"status": 1,
+		"sort": null,
+		"hot": 1,
+		"createTime": "2021-01-26 23:09:09",
+		"updateTime": "2021-01-26 23:09:08",
+		"iosLink": "https://tp-lab.tokenpocket.pro/uniswap/index.html?utm_source=tokenpocket#/swap",
+		"tag": 4,
+		"desc": "以太坊通证兑换平台",
+		"type": 1
+	},{
+		"id": 102,
+		"appName": "heco scan",
+		"appIco": "https://hecoinfo.com/images/ht_small.png?v=1.4",
+		"appLink": "https://hecoinfo.com/",
+		"status": 1,
+		"sort": null,
+		"hot": 1,
+		"createTime": "2021-01-26 23:09:09",
+		"updateTime": "2021-01-26 23:09:08",
+		"iosLink": "https://hecoinfo.com/",
+		"tag": 4,
+		"desc": "heco浏览器",
+		"type": 8
+	},{
+		"id": 102,
+		"appName": "Ether Scan",
+		"appIco": "https://cn.etherscan.com/images/ethereum-icon.png",
+		"appLink": "https://cn.etherscan.com/",
+		"status": 1,
+		"sort": null,
+		"hot": 1,
+		"createTime": "2021-01-26 23:09:09",
+		"updateTime": "2021-01-26 23:09:08",
+		"iosLink": "https://cn.etherscan.com/",
+		"tag": 4,
+		"desc": "以太坊浏览器",
+		"type": 1
+	}]
+
+}

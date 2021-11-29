@@ -1,0 +1,30 @@
+{
+	"msg": "SUCCESS",
+	"data": [
+		{
+			"id": 1,
+			"version": 1,
+			"versionDesc": "1.0.0",
+			"download": "https://down-1258428365.cos.ap-nanjing.myqcloud.com/metatoken.apk",
+			"updateInfo": "此次更新变动很大，务必先将您的私钥导出后再升级！！！\\n1.新增erc721功能。\\n2.界面ui大改。\\n3.新增节点设置功能。\\n如果无法直接更新,请到\"我的--邀请好友\"扫描二维码下载更新",
+			"type": 1,
+			"constraint": 0,
+			"createTime": "2020-12-25 03:37:33",
+			"status": 1,
+			"remark": "此为内测版\\n1.新增erc721功能。\\n2.界面ui大改。\\n3.新增节点设置功能。\\n如果无法直接更新,请到\"我的--邀请好友\"扫描二维码下载更新"
+		},
+		{
+			"id": 1,
+			"version": 1,
+			"versionDesc": "1.0.0",
+			"download": "https://down-1258428365.cos.ap-nanjing.myqcloud.com/metatoken.apk",
+			"updateInfo": "务必先将您的私钥导出后再升级！！！\\n1.新增erc721功能。\\n2.界面ui大改。\\n3.新增节点设置功能。\\n如果无法直接更新,请到\"我的--邀请好友\"扫描二维码下载更新",
+			"type": 2,
+			"constraint": 0,
+			"createTime": "2020-12-25 03:37:33",
+			"status": 1,
+			"remark": "此为内测版\\n1.新增erc721功能。\\n2.界面ui大改。\\n3.新增节点设置功能。\\n如果无法直接更新,请到\"我的--邀请好友\"扫描二维码下载更新"
+		}
+	],
+	"status": 0
+}
